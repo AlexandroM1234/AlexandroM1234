@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## I'm Alexandro, but I go by Alex for short
 
-- I'm currently working on my endoresment at Lambda School
+- I'm currently working on my endorsement at Lambda School
 - Some technologies I'm learning
   - TypeScript
   - Vim
