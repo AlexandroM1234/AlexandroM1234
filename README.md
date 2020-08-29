@@ -14,11 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ## I'm Alexandro, but I go by Alex for short
+
 - I'm currently working on my endoresment at Lambda School
 - Some technologies I'm learning
-  -- TypeScript
-  -- Vim
-  -- Next.js
-
- 
+  - TypeScript
+  - Vim
+  - Next.js
+- My hobbies include video games, drinking coffee, eating food, and having a good time
+- If you would like to contact me you can message me on my [LinkedIn](https://www.linkedin.com/in/alex-martinez-44765b1a1/)
