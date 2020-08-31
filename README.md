@@ -1,26 +1,18 @@
-### Hi there 👋
+### Hi there 👋, my name is Alex
 
-<!--
-**AlexandroM1234/AlexandroM1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I am a Full Stack Web Developer
 
-Here are some ideas to get you started:
+I'm currently a student at Lambda School in the process of getting endorsed and into the job search
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: React / JS / HTML / CSS / Python / Node / PostgresSQL / SQLite3 / SASS / LESS / Redux / Context / Jest / Knex / Express / Git
 
-## I'm Alexandro, but I go by Alex for short
+- 🌱 I’m currently learning TypeScript with React on the Front-End and GraphQL with Apollo on the Back-End
+- 📫 How to reach me: I have provided links to my GitHub, DEV and LinkedIn just click on the icons
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I have 2 dogs one that's super hyper and jumps around every where and the other is really fat and lays in bed all day
 
-- I'm currently working on my endoresment at Lambda School
-- Some technologies I'm learning
-  - TypeScript
-  - Vim
-  - Next.js
-- My hobbies include video games, drinking coffee, eating food, and having a good time
-- If you would like to contact me you can message me on my [LinkedIn](https://www.linkedin.com/in/alex-martinez-44765b1a1/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AlexandroM1234)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/alexm1234)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alex-martinez-44765b1a1/)
+
+[![Alex's github stats](https://github-readme-stats.alexm1234.vercel.app/api?username=AlexandroM1234&theme=prussian&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
