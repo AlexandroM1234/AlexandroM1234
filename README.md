@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Alex
 
-#### I am a Full Stack Web Developer
+#### Full Stack Web Developer
 
 I'm currently a student at Lambda School in the process of getting endorsed and into the job search
 
