@@ -7,9 +7,9 @@ I'm currently a student at Lambda School in the process of getting endorsed and 
 Skills: React / JS / HTML / CSS / Python / Node / PostgresSQL / SQLite3 / SASS / LESS / Redux / Context / Jest / Knex / Express / Git
 
 - 🌱 I’m currently learning TypeScript with React on the Front-End and GraphQL with Apollo on the Back-End
-- 📫 How to reach me: I have provided links to my GitHub, DEV and LinkedIn just click on the icons
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I have 2 dogs one that's super hyper and jumps around every where and the other is really fat and lays in bed all day
+- 📫 How to reach me: I have provided links to my GitHub, DEV and LinkedIn just click on the icons below
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AlexandroM1234)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/alexm1234)
