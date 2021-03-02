@@ -7,7 +7,6 @@ I'm currently a graduate from Lambda School and looking for a Full-Stack or Fron
 Skills: React / JS / HTML / CSS / Python / Node / PostgresSQL / SQLite3 / SASS / LESS / Redux / Context / Jest / Knex / Express / Git
 
 - 🌱 I’m currently learning TypeScript with React on the Front-End and GraphQL with Apollo on the Back-End
-- 😄 Pronouns: He/him
 - ⚡ Fun fact: I have 2 dogs one that's super hyper and jumps around every where and the other is really fat and lays in bed all day
 - 📫 How to reach me: I have provided links to my DEV and LinkedIn just click on the icons below
 
