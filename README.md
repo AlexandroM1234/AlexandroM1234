@@ -2,7 +2,7 @@
 
 #### Full Stack Web Developer
 
-I'm currently a graduate from Lambda School and looking for a Full-Stack or Front-End developer position
+I'm currently a graduate from Lambda School and I'm currently a Software Engineer at JP Morgan Chase.
 
 
 Skills: React / JS / HTML / CSS / Python / Node / PostgresSQL / SQLite3 / SASS / LESS / Redux / Context / Jest / Knex / Express / Git
